@@ -39,7 +39,7 @@ Full reproduction requires the public accessions listed in `config/` and the fro
 
 ## Data availability
 
-Raw sequencing reads, reference proteomes, and database resources remain at their original public repositories under the accessions recorded in `config/`. The manuscript-focused Zenodo archive contains only frozen derived tables, compact sequence sets, metadata, and checksums required to support and reproduce reported results. Large public source files and redundant intermediates are intentionally excluded.
+Raw sequencing reads, reference proteomes, and database resources remain at their original public repositories under the accessions recorded in `config/`. The manuscript-focused Zenodo archive contains only frozen derived tables, compact sequence sets, metadata, and checksums required to support and reproduce reported results. Version 0.1.0 is available at [https://doi.org/10.5281/zenodo.21423245](https://doi.org/10.5281/zenodo.21423245). Large public source files and redundant intermediates are intentionally excluded.
 
 ## Repository structure
 
@@ -52,9 +52,8 @@ Raw sequencing reads, reference proteomes, and database resources remain at thei
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The associated manuscript targets *Journal of Forestry Research*.
+Use the metadata in `CITATION.cff`. The associated manuscript targets *Journal of Forestry Research*. Cite the frozen derived-data archive using DOI `10.5281/zenodo.21423245`.
 
 ## License
 
 Code is released under the MIT License. Third-party datasets retain their original licenses and terms of use.
-

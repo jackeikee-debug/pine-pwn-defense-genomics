@@ -3,6 +3,7 @@ message: "If you use this workflow, please cite the repository and associated ar
 title: "Pine wilt disease defense genomics"
 type: software
 version: 0.1.0
+date-released: 2026-07-18
 authors:
   - family-names: Li
     given-names: Si
@@ -10,5 +11,9 @@ authors:
     affiliation: "School of Chemical Engineering and Technology, Hebei University of Technology"
     email: "jackeikee@aliyun.com"
 repository-code: "https://github.com/jackeikee-debug/pine-pwn-defense-genomics"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21423245"
+    description: "Frozen derived-data archive supporting this workflow"
+url: "https://doi.org/10.5281/zenodo.21423245"
 license: MIT
-
