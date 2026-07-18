@@ -1,0 +1,15 @@
+name: pine-pwn-base
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - pyyaml
+  - pytest
+  - biopython
+  - bioblend>=1.5
+  - openpyxl
+  - pandas
+  - xlrd
+  - pypdf
+  - snakemake

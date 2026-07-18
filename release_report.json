@@ -1,0 +1,7 @@
+{
+  "copied_files": 222,
+  "renamed_files": 70,
+  "sha256_manifest": "6f94a7eb138f5007adc3eb4a43f3c221728200e7c866f08b58634a6cd3202055",
+  "test_command": "python -m pytest -q",
+  "total_bytes": 1459714
+}

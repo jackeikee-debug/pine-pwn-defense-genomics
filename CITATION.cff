@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the repository and associated article."
+title: "Pine wilt disease defense genomics"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Li
+    given-names: Si
+    orcid: "https://orcid.org/0000-0001-9138-3569"
+    affiliation: "School of Chemical Engineering and Technology, Hebei University of Technology"
+    email: "jackeikee@aliyun.com"
+repository-code: "https://github.com/jackeikee-debug/pine-pwn-defense-genomics"
+license: MIT
+

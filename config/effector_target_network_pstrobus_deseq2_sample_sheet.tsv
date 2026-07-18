@@ -1,0 +1,10 @@
+sample_id	condition	replicate	run_accession	condition_label	quantification_source
+pstrobus_0w_rep2_SRR29499889	0w	2	SRR29499889	PWN inoculation, 0 weeks	galaxy_salmon_1.10.1
+pstrobus_0w_rep5_SRR29499888	0w	5	SRR29499888	PWN inoculation, 0 weeks	galaxy_salmon_1.10.1
+pstrobus_0w_rep7_SRR29499887	0w	7	SRR29499887	PWN inoculation, 0 weeks	galaxy_salmon_1.10.1
+pstrobus_2w_rep2_SRR29499886	2w	2	SRR29499886	PWN inoculation, 2 weeks	local_salmon_1.10.2
+pstrobus_2w_rep5_SRR29499884	2w	5	SRR29499884	PWN inoculation, 2 weeks	local_salmon_1.10.2
+pstrobus_2w_rep7_SRR29499883	2w	7	SRR29499883	PWN inoculation, 2 weeks	galaxy_salmon_1.10.1
+pstrobus_4w_rep2_SRR29499882	4w	2	SRR29499882	PWN inoculation, 4 weeks	galaxy_salmon_1.10.1
+pstrobus_4w_rep5_SRR29499881	4w	5	SRR29499881	PWN inoculation, 4 weeks	galaxy_salmon_1.10.1
+pstrobus_4w_rep7_SRR29499880	4w	7	SRR29499880	PWN inoculation, 4 weeks	galaxy_salmon_1.10.1

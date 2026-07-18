@@ -1,0 +1,22 @@
+dataset_id	species	sample_id	run_accession	platform	instrument_model	layout	salmon_mapping_rate_pct
+pmas_1dpi	Pinus massoniana	pmas_RI1_1_SRR5435277	SRR5435277	ILLUMINA	Illumina HiSeq 2000	single	60.1137
+pmas_1dpi	Pinus massoniana	pmas_RI1_2_SRR5435828	SRR5435828	ILLUMINA	Illumina HiSeq 2000	single	59.2384
+pmas_1dpi	Pinus massoniana	pmas_RI1_3_SRR5435774	SRR5435774	ILLUMINA	Illumina HiSeq 2000	single	59.5038
+pmas_1dpi	Pinus massoniana	pmas_RW1_1_SRR5435781	SRR5435781	ILLUMINA	Illumina HiSeq 2000	single	59.2715
+pmas_1dpi	Pinus massoniana	pmas_RW1_2_SRR5435782	SRR5435782	ILLUMINA	Illumina HiSeq 2000	single	60.6762
+pmas_1dpi	Pinus massoniana	pmas_RW1_3_SRR5435783	SRR5435783	ILLUMINA	Illumina HiSeq 2000	single	60.3146
+pmas_1dpi	Pinus massoniana	pmas_SI1_1_SRR5435791	SRR5435791	ILLUMINA	Illumina HiSeq 2000	single	57.6635
+pmas_1dpi	Pinus massoniana	pmas_SI1_2_SRR5435792	SRR5435792	ILLUMINA	Illumina HiSeq 2000	single	58.9308
+pmas_1dpi	Pinus massoniana	pmas_SI1_3_SRR5435797	SRR5435797	ILLUMINA	Illumina HiSeq 2000	single	59.5325
+pmas_1dpi	Pinus massoniana	pmas_SW1_1_SRR5435803	SRR5435803	ILLUMINA	Illumina HiSeq 2000	single	57.6945
+pmas_1dpi	Pinus massoniana	pmas_SW1_2_SRR5435804	SRR5435804	ILLUMINA	Illumina HiSeq 2000	single	56.7264
+pmas_1dpi	Pinus massoniana	pmas_SW1_3_SRR5435805	SRR5435805	ILLUMINA	Illumina HiSeq 2000	single	55.8362
+pden_full	Pinus densiflora	b_xylophilus_rep1_SRR8061561	SRR8061561	ILLUMINA	Illumina HiSeq 2000	paired	90.6586
+pden_full	Pinus densiflora	b_xylophilus_rep2_SRR8061562	SRR8061562	ILLUMINA	Illumina HiSeq 2000	paired	92.3332
+pden_full	Pinus densiflora	b_xylophilus_rep3_SRR8061569	SRR8061569	ILLUMINA	Illumina HiSeq 2000	paired	92.1693
+pden_full	Pinus densiflora	b_thailandae_rep1_SRR8061566	SRR8061566	ILLUMINA	Illumina HiSeq 2000	paired	91.5298
+pden_full	Pinus densiflora	b_thailandae_rep2_SRR8061563	SRR8061563	ILLUMINA	Illumina HiSeq 2000	paired	91.7527
+pden_full	Pinus densiflora	b_thailandae_rep3_SRR8061564	SRR8061564	ILLUMINA	Illumina HiSeq 2000	paired	91.7302
+pden_full	Pinus densiflora	water_control_rep1_SRR8061567	SRR8061567	ILLUMINA	Illumina HiSeq 2000	paired	91.0857
+pden_full	Pinus densiflora	water_control_rep2_SRR8061568	SRR8061568	ILLUMINA	Illumina HiSeq 2000	paired	90.9082
+pden_full	Pinus densiflora	water_control_rep3_SRR8061565	SRR8061565	ILLUMINA	Illumina HiSeq 2000	paired	91.5919

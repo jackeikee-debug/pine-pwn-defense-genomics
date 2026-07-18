@@ -1,0 +1,5 @@
+family_id	match_text	catalytic_mode	intact_protein_substrate_plausibility	substrate_constraint	source_url
+S9	Peptidase S9	oligopeptidase	low	Most S9A members act mainly on oligopeptides because the N-terminal beta-propeller restricts access to the catalytic site	https://www.ebi.ac.uk/merops/cgi-bin/famsum?family=s09b
+S10	Peptidase S10	carboxypeptidase	low	Serine carboxypeptidases remove residues from a free protein or peptide C terminus rather than defining an internal cleavage motif	https://www.ebi.ac.uk/interpro/entry/InterPro/IPR001563/
+M8	Peptidase M8	endopeptidase	possible	Leishmanolysin-family metallopeptidases are endopeptidases; family assignment alone does not establish the physiological substrate	https://www.ebi.ac.uk/merops/cgi-bin/famsum?family=M8
+M14	Peptidase M14	carboxypeptidase	low	Most M14 enzymes hydrolyse single C-terminal residues and recognize a free C-terminal carboxyl group	https://www.ebi.ac.uk/merops/cgi-bin/famsum?family=M14

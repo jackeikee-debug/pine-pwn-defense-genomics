@@ -1,0 +1,11 @@
+name: pine-pwn-phylo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - mafft
+  - trimal
+  - iqtree
+  - hyphy
+  - python>=3.10
+

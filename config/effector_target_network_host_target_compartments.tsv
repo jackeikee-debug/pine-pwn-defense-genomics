@@ -1,0 +1,4 @@
+orthogroup_id	host_compartment	localization_basis	source_url
+OG0003130	nucleus	WRKY4 Arabidopsis homolog is a DNA-binding transcription factor with nuclear localization support	https://thebiogrid.org/23196/summary/arabidopsis-thaliana/wrky4.html
+OG0003639	nucleus	RAV1 Arabidopsis homolog has curated nuclear localization in UniProtKB	https://www.uniprot.org/uniprotkb/Q9ZWM9/entry
+OG0004410	nucleus	MYB3 Arabidopsis homolog has nuclear localization annotation in UniProtKB	https://www.uniprot.org/uniprotkb/Q9S9K9/entry

@@ -1,0 +1,6 @@
+pathway_id	pathway_name	mechanism_axis	minimum_mapped_genes
+ath04626	Plant-pathogen interaction	effector_target_network	5
+ath04016	MAPK signaling pathway - plant	effector_target_network	5
+ath04075	Plant hormone signal transduction	susceptibility_vulnerability	5
+ath00940	Phenylpropanoid biosynthesis	hydraulic_xylem_collapse	5
+ath00480	Glutathione metabolism	effector_target_network;hydraulic_xylem_collapse	5

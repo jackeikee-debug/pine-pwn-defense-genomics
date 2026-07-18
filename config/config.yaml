@@ -1,0 +1,95 @@
+project:
+  name: pine_pwn_effector_guided_comparative_genomics
+
+metadata:
+  species: config/species_metadata.tsv
+  phenotype: config/phenotype_matrix.tsv
+  defense_modules: config/defense_modules.yaml
+  protein_function_annotations: data/interim/protein_function_annotations.tsv
+  effector_keywords: config/effector_keywords.yaml
+  effector_host_module_map: config/effector_host_module_map.tsv
+  data_sources: config/data_sources.tsv
+  expansion_candidates: config/expansion_candidate_species.tsv
+  cafe_time_calibrations: config/cafe_time_calibrations.tsv
+  mechanism_axes: config/mechanism_axes.tsv
+  public_expression_evidence_sources: config/public_expression_evidence_sources.tsv
+  public_expression_text_dir: data/external/public_expression_texts
+  public_expression_supplement_sources: config/public_expression_supplement_sources.tsv
+  public_expression_supplement_dir: data/external/public_expression_supplements
+  pden_trinity_oa_package: data/external/pmc_oa_packages/PMC6704138.tar.gz
+  pden_trinity_package_member: PMC6704138/41598_2019_48660_MOESM2_ESM.zip
+  pden_trinity_zip_member: Trinity.fasta
+
+resources:
+  threads: 8
+  max_memory_gb: 24
+
+orthology:
+  tool: orthofinder
+  use_diamond: true
+  use_longest_isoform: true
+  min_protein_length: 30
+  max_species_first_round: 8
+
+secretome:
+  min_protein_length: 30
+  small_secreted_max_length: 300
+  cysteine_rich_threshold: 0.03
+  require_signal_peptide: true
+  max_transmembrane_domains: 0
+
+candidate_orthogroups:
+  min_species_count: 5
+  max_copy_number_per_species: 5
+  require_defense_module: true
+  require_effector_link: true
+  shortlist_allowed_tiers:
+    - high
+  shortlist_max_per_module_direction: 20
+  shortlist_min_mean_bitscore: 150.0
+  shortlist_min_core_retention: 0.95
+  shortlist_min_core_jaccard: 0.80
+
+annotation:
+  swissprot_url: https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/uniprot_sprot.fasta.gz
+  swissprot_query_max_total: 0
+  swissprot_query_max_per_species: 0
+  swissprot_min_pident: 35.0
+  swissprot_min_bitscore: 80.0
+
+effector_target_network_network:
+  string_api_url: https://version-12-0.string-db.org/api
+  string_species: 3702
+  string_required_score: 700
+  string_partner_limit: 20
+  string_network_type: functional
+  string_caller_identity: pine_pwn_effector_guided_comparative_genomics
+  string_channel_score_threshold: 0.4
+
+effector_target_network_expression_bridge:
+  pden_current_proteome: data/raw/proteomes/Pinus_densiflora.v1_0_HA.PEP.fa
+  pden_blastx_evalue: 1e-5
+  pden_blastx_max_target_seqs: 10
+  pden_blastx_min_bitscore: 80.0
+  pden_blastx_min_pident: 35.0
+
+effector_target_network_pden_rnaseq:
+  ena_api_url: https://www.ebi.ac.uk/ena/portal/api/filereport
+  accession: SRP165817
+  bioproject_accession: PRJNA496563
+  expected_runs: 9
+  expected_replicates_per_condition: 3
+  tissue: cambium
+  collection_time: 4_weeks_post_inoculation
+  timeout_seconds: 60
+
+galaxy_effector_target_network_pilot:
+  server_url: https://usegalaxy.eu
+  history_name: PWN effector_target_network - P. densiflora RNA-seq - SRP165817
+  run_accession: SRR8061568
+  condition: water_control
+
+figures:
+  format:
+    - pdf
+    - png

@@ -1,0 +1,40 @@
+effector_classes:
+  cell_wall_modifying:
+    keywords:
+      - cellulase
+      - beta-1,4-endoglucanase
+      - pectate lyase
+      - xylanase
+      - expansin-like
+      - glycoside hydrolase
+      - carbohydrate esterase
+      - polysaccharide lyase
+  protease:
+    keywords:
+      - serine protease
+      - cysteine protease
+      - metalloprotease
+      - peptidase
+      - subtilisin
+  detoxification:
+    keywords:
+      - glutathione S-transferase
+      - peroxiredoxin
+      - superoxide dismutase
+      - catalase
+      - cytochrome P450
+  mimicry:
+    keywords:
+      - thaumatin-like
+      - plant-like
+      - expansin-like
+      - pathogenesis-related
+      - PR-like
+  stress_adaptation:
+    keywords:
+      - heat shock protein
+      - HSP
+      - aquaporin
+      - detoxification
+      - lipid binding
+

@@ -1,0 +1,5 @@
+panel_id	species	root_group_a	root_group_b	min_species_present	max_total_size	max_species_count	panel_scope	filter_level
+conifer_root	cula;sese;pabi;pden;plam;plon;pmas;psme;ptab;ptae	cula;sese	pabi;pden;plam;plon;pmas;psme;ptab;ptae	4	100	50	conifer_wide	root_compatible
+conifer_strict	cula;sese;pabi;pden;plam;plon;pmas;psme;ptab;ptae	cula;sese	pabi;pden;plam;plon;pmas;psme;ptab;ptae	7	100	50	conifer_wide	strict
+host_root	pabi;pden;plam;plon;pmas;ptab;ptae	pabi	pden;plam;plon;pmas;ptab;ptae	4	100	50	pinus_host_focused	root_compatible
+host_strict	pabi;pden;plam;plon;pmas;ptab;ptae	pabi	pden;plam;plon;pmas;ptab;ptae	6	100	50	pinus_host_focused	strict

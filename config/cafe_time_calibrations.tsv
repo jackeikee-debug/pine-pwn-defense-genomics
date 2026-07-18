@@ -1,0 +1,20 @@
+node_id	parent_id	node_type	label	age_mya	child_order	evidence_level	citation	notes
+root_pinaceae_cupressaceae		internal		300.0	0	provisional_pilot	https://doi.org/10.1002/ajb2.1143	Working root for Pinaceae plus Cupressaceae sampling; replace with curated time tree before formal CAFE inference.
+cupressaceae_cunninghamia_sequoia	root_pinaceae_cupressaceae	internal		190.0	1	provisional_pilot	https://www.conifers.org/cu/Cupressaceae.php	Cupressaceae-side pilot node; family fossil record and Cunninghamia early divergence support only a rough scale here.
+cula	cupressaceae_cunninghamia_sequoia	leaf	cula	0.0	1	proteome_manifest	config/expansion_candidate_species.tsv	Cunninghamia lanceolata
+sese	cupressaceae_cunninghamia_sequoia	leaf	sese	0.0	2	proteome_manifest	config/expansion_candidate_species.tsv	Sequoia sempervirens
+pinaceae_core	root_pinaceae_cupressaceae	internal		198.4	2	provisional_pilot	https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107679	Pinaceae MRCA scale from gymnosperm divergence-time literature; topology simplified for current 9-species panel.
+psme	pinaceae_core	leaf	psme	0.0	1	proteome_manifest	config/expansion_candidate_species.tsv	Pseudotsuga menziesii
+picea_pinus	pinaceae_core	internal		150.0	2	provisional_pilot	https://doi.org/10.1002/ajb2.1139	Working Picea-Pinus scale; refine from Pinaceae fossil-calibrated tree before formal inference.
+pabi	picea_pinus	leaf	pabi	0.0	1	proteome_manifest	config/species_metadata.tsv	Picea abies
+pinus_crown	picea_pinus	internal		133.0	2	provisional_pilot	https://www.conifers.org/pi/Pinus.php	Working Pinus crown scale informed by Early Cretaceous Pinus fossils.
+soft_pines	pinus_crown	internal		60.0	1	provisional_pilot	https://www.conifers.org/pi/Pinus.php	Reduced soft-pine branch for P. lambertiana and P. longaeva in the technical CAFE pilot; replace with curated Pinus time tree before formal inference.
+plam	soft_pines	leaf	plam	0.0	1	proteome_manifest	config/species_metadata.tsv	Pinus lambertiana; Strobus representative in this panel.
+plon	soft_pines	leaf	plon	0.0	2	proteome_manifest	config/species_metadata.tsv	Pinus longaeva; North American bristlecone pine reference added in small-batch expansion.
+hard_pines	pinus_crown	internal		100.0	2	provisional_pilot	https://www.treesandshrubsonline.org/articles/pinus/	Approximate Pinus-vs-Strobus split scale used as hard-pine stem proxy in this reduced topology.
+ptae	hard_pines	leaf	ptae	0.0	1	proteome_manifest	config/species_metadata.tsv	Pinus taeda; North American hard pine representative.
+east_asian_hard_pines	hard_pines	internal		20.0	2	provisional_pilot	https://www.conifers.org/pi/Pinus.php	Reduced East Asian hard-pine cluster for technical CAFE pilot.
+pden	east_asian_hard_pines	leaf	pden	0.0	1	proteome_manifest	config/species_metadata.tsv	Pinus densiflora
+pmas_ptab	east_asian_hard_pines	internal		8.0	2	provisional_pilot	https://www.conifers.org/pi/Pinus.php	Reduced close-pair pilot node; refine with species-level Pinus phylogeny before formal inference.
+pmas	pmas_ptab	leaf	pmas	0.0	1	proteome_manifest	config/species_metadata.tsv	Pinus massoniana
+ptab	pmas_ptab	leaf	ptab	0.0	2	proteome_manifest	config/species_metadata.tsv	Pinus tabuliformis

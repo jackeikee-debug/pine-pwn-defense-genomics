@@ -1,0 +1,10 @@
+sample_id	timepoint	replicate	run_accession	condition_label	reference_bias
+prig_xtae_0w_rep4_SRR29499899	0w	4	SRR29499899	PWN inoculation, 0 weeks	P_taeda_parental_CDS_reference
+prig_xtae_0w_rep5_SRR29499898	0w	5	SRR29499898	PWN inoculation, 0 weeks	P_taeda_parental_CDS_reference
+prig_xtae_0w_rep6_SRR29499897	0w	6	SRR29499897	PWN inoculation, 0 weeks	P_taeda_parental_CDS_reference
+prig_xtae_2w_rep4_SRR29499895	2w	4	SRR29499895	PWN inoculation, 2 weeks	P_taeda_parental_CDS_reference
+prig_xtae_2w_rep5_SRR29499894	2w	5	SRR29499894	PWN inoculation, 2 weeks	P_taeda_parental_CDS_reference
+prig_xtae_2w_rep6_SRR29499893	2w	6	SRR29499893	PWN inoculation, 2 weeks	P_taeda_parental_CDS_reference
+prig_xtae_4w_rep4_SRR29499892	4w	4	SRR29499892	PWN inoculation, 4 weeks	P_taeda_parental_CDS_reference
+prig_xtae_4w_rep5_SRR29499891	4w	5	SRR29499891	PWN inoculation, 4 weeks	P_taeda_parental_CDS_reference
+prig_xtae_4w_rep6_SRR29499890	4w	6	SRR29499890	PWN inoculation, 4 weeks	P_taeda_parental_CDS_reference

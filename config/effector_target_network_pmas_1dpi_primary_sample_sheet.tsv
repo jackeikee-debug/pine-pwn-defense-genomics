@@ -1,0 +1,13 @@
+sample_id	run_accession	published_label	phenotype	inoculum	condition	timepoint_days	replicate	library_layout	mapping_evidence
+pmas_RI1_1_SRR5435277	SRR5435277	RI-1-1	resistant	b_xylophilus	resistant_pwn	1	1	single	SRA_read_count_matches_Table_S5
+pmas_RI1_2_SRR5435828	SRR5435828	RI-1-2	resistant	b_xylophilus	resistant_pwn	1	2	single	SRA_read_count_matches_Table_S5
+pmas_RI1_3_SRR5435774	SRR5435774	RI-1-3	resistant	b_xylophilus	resistant_pwn	1	3	single	SRA_read_count_matches_Table_S5
+pmas_RW1_1_SRR5435781	SRR5435781	RW-1-1	resistant	water_control	resistant_water	1	1	single	SRA_read_count_matches_Table_S5
+pmas_RW1_2_SRR5435782	SRR5435782	RW-1-2	resistant	water_control	resistant_water	1	2	single	SRA_read_count_matches_Table_S5
+pmas_RW1_3_SRR5435783	SRR5435783	RW-1-3	resistant	water_control	resistant_water	1	3	single	SRA_read_count_matches_Table_S5
+pmas_SI1_1_SRR5435791	SRR5435791	SI-1-1	susceptible	b_xylophilus	susceptible_pwn	1	1	single	SRA_read_count_matches_Table_S5
+pmas_SI1_2_SRR5435792	SRR5435792	SI-1-2	susceptible	b_xylophilus	susceptible_pwn	1	2	single	SRA_read_count_matches_Table_S5
+pmas_SI1_3_SRR5435797	SRR5435797	SI-1-3	susceptible	b_xylophilus	susceptible_pwn	1	3	single	SRA_read_count_matches_Table_S5
+pmas_SW1_1_SRR5435803	SRR5435803	SW-1-1	susceptible	water_control	susceptible_water	1	1	single	SRA_read_count_matches_Table_S5
+pmas_SW1_2_SRR5435804	SRR5435804	SW-1-2	susceptible	water_control	susceptible_water	1	2	single	SRA_read_count_matches_Table_S5
+pmas_SW1_3_SRR5435805	SRR5435805	SW-1-3	susceptible	water_control	susceptible_water	1	3	single	SRA_read_count_matches_Table_S5

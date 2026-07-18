@@ -1,0 +1,6 @@
+name: pine-pwn-cafe5
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - cafe=5.1.0

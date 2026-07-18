@@ -1,0 +1,86 @@
+modules:
+  resin_terpenoid:
+    description: Resin and terpenoid biosynthesis and transport
+    keywords:
+      - terpene synthase
+      - TPS
+      - cytochrome P450
+      - CYP
+      - prenyltransferase
+      - geranylgeranyl diphosphate
+      - ABC transporter
+      - resin
+      - diterpene
+      - monoterpene
+  phenylpropanoid_lignin:
+    description: Phenylpropanoid, lignin, and cell-wall reinforcement
+    keywords:
+      - phenylalanine ammonia-lyase
+      - PAL
+      - cinnamate 4-hydroxylase
+      - 4CL
+      - CAD
+      - CCR
+      - laccase
+      - peroxidase
+      - lignin
+      - suberin
+  wound_periderm:
+    description: Wound response, periderm formation, and local tissue isolation
+    keywords:
+      - wound
+      - periderm
+      - suberin
+      - callose
+      - peroxidase
+      - laccase
+      - expansin
+      - xyloglucan
+  ros_detoxification:
+    description: ROS production and detoxification
+    keywords:
+      - peroxidase
+      - catalase
+      - superoxide dismutase
+      - glutathione S-transferase
+      - ascorbate peroxidase
+      - NADPH oxidase
+      - respiratory burst oxidase
+  immune_signaling:
+    description: Plant immune signaling and defense regulators
+    keywords:
+      - WRKY
+      - NAC
+      - MYB
+      - ERF
+      - pathogenesis-related
+      - PR protein
+      - NBS-LRR
+      - NLR
+      - chitinase
+      - thaumatin
+  hydraulic_xylem:
+    description: Xylem, water transport, and cavitation-related stress
+    keywords:
+      - aquaporin
+      - xylem
+      - cellulose synthase
+      - pectin
+      - expansin
+      - xyloglucan
+      - vessel
+      - tracheid
+  hormone_signaling:
+    description: JA, SA, ET, ABA and stress hormone signaling
+    keywords:
+      - jasmonate
+      - salicylic acid
+      - ethylene
+      - abscisic acid
+      - JAZ
+      - TIFY
+      - NPR1
+      - EIN
+      - ERF
+      - NCED
+

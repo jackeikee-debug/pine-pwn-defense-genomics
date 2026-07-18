@@ -1,0 +1,10 @@
+name: pine-pwn-annotation
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - hmmer
+  - diamond
+  - interproscan
+  - python>=3.10
+  - pyyaml

@@ -1,0 +1,6 @@
+family_id	symbol_regex	host_compartment	target_rationale	source_url
+PMEI	^PMEI	apoplast_cell_wall	Pectin methylesterase inhibitors regulate extracellular pectin remodeling	https://www.uniprot.org/uniprotkb/Q84WE4/entry
+PME	^PME[0-9]	apoplast_cell_wall	Pectin methylesterases modify cell-wall pectin and can affect pathogen colonization	https://www.uniprot.org/uniprotkb/O49006/entry
+XTH	^XTH	apoplast_cell_wall	Xyloglucan endotransglucosylase hydrolases remodel cell-wall xyloglucan	https://www.uniprot.org/uniprotkb/P93046/entry
+EXP	^EXP	apoplast_cell_wall	Expansins loosen plant cell walls and are secreted cell-wall proteins	https://www.uniprot.org/uniprotkb/Q9SKU2/entry
+PER	^PER[0-9]	extracellular_cell_wall	Class III peroxidases are secreted and connect ROS handling with lignin and wound responses	https://www.uniprot.org/uniprotkb/Q43729/entry

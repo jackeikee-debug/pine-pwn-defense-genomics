@@ -1,0 +1,9 @@
+effector_class	host_module	link_type	evidence_basis	notes
+cell_wall_modifying	phenylpropanoid_lignin	putative_functional_link	keyword_mapping	cell-wall modification may interact with wall reinforcement
+cell_wall_modifying	wound_periderm	putative_functional_link	keyword_mapping	wound isolation and periderm response are candidate vulnerability points
+cell_wall_modifying	hydraulic_xylem	putative_functional_link	keyword_mapping	xylem and cell-wall traits may affect wilt progression
+protease	immune_signaling	putative_functional_link	keyword_mapping	proteases may affect defense signaling proteins
+detoxification	ros_detoxification	putative_functional_link	keyword_mapping	detoxification classes may counter host oxidative responses
+mimicry	immune_signaling	putative_functional_link	keyword_mapping	plant-like proteins may mimic host defense-related proteins
+stress_adaptation	hydraulic_xylem	putative_functional_link	keyword_mapping	stress adaptation may relate to xylem water stress
+

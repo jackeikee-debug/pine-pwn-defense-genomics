@@ -1,0 +1,10 @@
+name: pine-pwn-orthology
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - orthofinder
+  - diamond
+  - mmseqs2
+  - python>=3.10
+

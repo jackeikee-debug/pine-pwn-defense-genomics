@@ -1,0 +1,3 @@
+proteome_dir: examples/smoke/proteins
+output: examples/smoke/results/proteome_summary.tsv
+

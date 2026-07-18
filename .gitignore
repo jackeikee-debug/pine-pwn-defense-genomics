@@ -1,0 +1,15 @@
+data/raw/
+data/interim/
+results/
+logs/
+benchmarks/
+.snakemake/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.DS_Store
+
+!examples/smoke/results/.gitkeep
+

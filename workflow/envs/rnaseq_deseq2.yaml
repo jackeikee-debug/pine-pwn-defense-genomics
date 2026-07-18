@@ -1,0 +1,14 @@
+name: pwn-rnaseq-deseq2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.3
+  - bioconductor-deseq2=1.42
+  - bioconductor-tximport=1.30
+  - bioconductor-fgsea=1.28
+  - r-readr
+  - r-dplyr
+  - r-jsonlite
+  - jq

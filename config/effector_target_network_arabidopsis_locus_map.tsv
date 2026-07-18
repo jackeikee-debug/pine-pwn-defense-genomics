@@ -1,0 +1,9 @@
+swissprot_id	accession	arabidopsis_symbol	tair_locus	source_url	retrieved_date
+WRKY4_ARATH	Q9XI90	WRKY4	AT1G13960	https://rest.uniprot.org/uniprotkb/Q9XI90	2026-07-04
+RAV1_ARATH	Q9ZWM9	RAV1	AT1G13260	https://rest.uniprot.org/uniprotkb/Q9ZWM9	2026-07-04
+RAV2_ARATH	P82280	RAV2	AT1G68840	https://rest.uniprot.org/uniprotkb/P82280	2026-07-04
+RAVL1_ARATH	Q9C6M5	TEM1	AT1G25560	https://rest.uniprot.org/uniprotkb/Q9C6M5	2026-07-04
+MYB3_ARATH	Q9S9K9	MYB3	AT1G22640	https://rest.uniprot.org/uniprotkb/Q9S9K9	2026-07-04
+MYB5_ARATH	Q38850	MYB5	AT3G13540	https://rest.uniprot.org/uniprotkb/Q38850	2026-07-04
+SODF1_ARATH	P21276	FSD1	AT4G25100	https://rest.uniprot.org/uniprotkb/P21276	2026-07-04
+SODF3_ARATH	Q9FMX0	FSD3	AT5G23310	https://rest.uniprot.org/uniprotkb/Q9FMX0	2026-07-04

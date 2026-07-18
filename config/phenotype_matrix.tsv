@@ -1,0 +1,12 @@
+species_id	species_name	pwd_response	response_score	evidence_type	evidence_strength	key_reference	notes
+pthu	Pinus_thunbergii	susceptible_but_breeding_resistance_exists	1	field_inoculation_QTL	high	NA	classic susceptible species; resistant lines exist
+pden	Pinus_densiflora	susceptible	0	field_inoculation	high	NA	commonly affected in East Asia
+pmas	Pinus_massoniana	susceptible	0	field_transcriptome	medium	NA	important host in China
+ptab	Pinus_tabuliformis	susceptible_or_intermediate	1	field_report	medium	NA	risk increasing in northern China
+ptae	Pinus_taeda	tolerant	2	inoculation_pathology	high	NA	North American tolerant reference
+pstr	Pinus_strobus	tolerant	2	inoculation_pathology	medium_high	NA	North American tolerant reference
+prig	Pinus_rigida	tolerant_or_resistant	2	breeding_inoculation	medium	NA	resistance candidate
+plam	Pinus_lambertiana	replacement_tolerant_reference	2	geographic_reference	low	NA	Replacement North American pine proteome; use as data-availability substitute, not a strong phenotype anchor
+palb	Pinus_albicaulis	North_American_resistance_context	2	white_pine_blister_rust_resistance_context	low	https://academic.oup.com/g3journal/article/14/5/jkae061/7634524	North American white pine with disease-resistance genomic context; not direct PWN phenotype evidence
+plon	Pinus_longaeva	North_American_reference	2	geographic_reference	low	https://api.ncbi.nlm.nih.gov/datasets/v2/genome/accession/GCA_056508025.1/download	New annotated North American Pinus proteome; no direct PWN phenotype evidence
+pabi	Picea_abies	outgroup	NA	outgroup	NA	NA	not used for phenotype contrast

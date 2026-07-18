@@ -1,0 +1,9 @@
+sample_id	timepoint	replicate	run_accession	condition_label	reference_bias
+pthun_0w_rep4_SRR29499879	0w	4	SRR29499879	PWN inoculation, 0 weeks	P_taeda_surrogate_CDS_reference
+pthun_0w_rep8_SRR29499877	0w	8	SRR29499877	PWN inoculation, 0 weeks	P_taeda_surrogate_CDS_reference
+pthun_2w_rep4_SRR29499876	2w	4	SRR29499876	PWN inoculation, 2 weeks	P_taeda_surrogate_CDS_reference
+pthun_2w_rep6_SRR29499875	2w	6	SRR29499875	PWN inoculation, 2 weeks	P_taeda_surrogate_CDS_reference
+pthun_2w_rep8_SRR29499873	2w	8	SRR29499873	PWN inoculation, 2 weeks	P_taeda_surrogate_CDS_reference
+pthun_4w_rep4_SRR29499872	4w	4	SRR29499872	PWN inoculation, 4 weeks	P_taeda_surrogate_CDS_reference
+pthun_4w_rep6_SRR29499871	4w	6	SRR29499871	PWN inoculation, 4 weeks	P_taeda_surrogate_CDS_reference
+pthun_4w_rep8_SRR29499870	4w	8	SRR29499870	PWN inoculation, 4 weeks	P_taeda_surrogate_CDS_reference

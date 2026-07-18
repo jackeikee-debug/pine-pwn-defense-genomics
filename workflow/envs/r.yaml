@@ -1,0 +1,15 @@
+name: pine-pwn-r
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-igraph
+  - r-ggraph
+  - r-pheatmap
+  - r-ape
+  - r-circlize
+  - bioconductor-pathview
+  - bioconductor-keggrest
+  - bioconductor-org.at.tair.db
