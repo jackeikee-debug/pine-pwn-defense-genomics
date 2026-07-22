@@ -39,7 +39,7 @@ Full reproduction requires the public accessions listed in `config/` and the fro
 
 ## Data availability
 
-Raw sequencing reads, reference proteomes, and database resources remain at their original public repositories under the accessions recorded in `config/`. The manuscript-focused Zenodo archive contains only frozen derived tables, compact sequence sets, metadata, and checksums required to support and reproduce reported results. Version 0.1.0 is available at [https://doi.org/10.5281/zenodo.21423245](https://doi.org/10.5281/zenodo.21423245). Large public source files and redundant intermediates are intentionally excluded.
+Raw sequencing reads, reference proteomes, and database resources remain at their original public repositories under the accessions recorded in `config/`. The manuscript-focused Zenodo archive contains only frozen derived tables, compact sequence sets, metadata, and checksums required to support and reproduce reported results. Version 0.1.1 is available at [https://doi.org/10.5281/zenodo.21495920](https://doi.org/10.5281/zenodo.21495920). Version 0.1.1 corrects submission metadata in the reviewer-readable supplementary workbook; scientific data and analytical results are unchanged from version 0.1.0. Large public source files and redundant intermediates are intentionally excluded.
 
 ## Repository structure
 
@@ -52,7 +52,7 @@ Raw sequencing reads, reference proteomes, and database resources remain at thei
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The associated manuscript targets *Tree Genetics & Genomes*. Cite the frozen derived-data archive using DOI `10.5281/zenodo.21423245`.
+Use the metadata in `CITATION.cff`. The associated manuscript targets *Tree Genetics & Genomes*. Cite the frozen derived-data archive using DOI `10.5281/zenodo.21495920`.
 
 ## License
 

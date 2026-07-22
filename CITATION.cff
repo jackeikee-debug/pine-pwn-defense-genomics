@@ -13,7 +13,7 @@ authors:
 repository-code: "https://github.com/jackeikee-debug/pine-pwn-defense-genomics"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21423245"
+    value: "10.5281/zenodo.21495920"
     description: "Frozen derived-data archive supporting this workflow"
-url: "https://doi.org/10.5281/zenodo.21423245"
+url: "https://doi.org/10.5281/zenodo.21495920"
 license: MIT
