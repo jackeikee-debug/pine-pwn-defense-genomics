@@ -52,7 +52,7 @@ Raw sequencing reads, reference proteomes, and database resources remain at thei
 
 ## Citation
 
-Use the metadata in `CITATION.cff`. The associated manuscript targets *Journal of Forestry Research*. Cite the frozen derived-data archive using DOI `10.5281/zenodo.21423245`.
+Use the metadata in `CITATION.cff`. The associated manuscript targets *Tree Genetics & Genomes*. Cite the frozen derived-data archive using DOI `10.5281/zenodo.21423245`.
 
 ## License
 
